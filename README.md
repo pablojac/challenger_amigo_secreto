@@ -1,4 +1,4 @@
-# challenger_amigo_secreto
+# Challenger Amigo Secreto
 Sorteo de Amigos aleatoriamente
 
 Esta página web permite realizar sorteos de "Amigo Secreto" de manera sencilla y divertida. Puedes agregar nombres de tus amigos a la lista y luego seleccionar un ganador al azar.
